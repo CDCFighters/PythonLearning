@@ -1,1 +1,2 @@
 # forThePartnerShip
+大家尝试开发一个基于Python语言的网站
